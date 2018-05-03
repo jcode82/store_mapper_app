@@ -13,7 +13,7 @@
         {!! $maps['js'] !!}
     </head>
     <body>
-        <span><img src="https://s3.us-east-2.amazonaws.com/jflifestyles/download-2.png" alt="Smiley face"></span>
+        <span><img src="https://s3.us-east-2.amazonaws.com/jflifestyles/jfblocklogo.png" height="80"></span>
         <br>
         <br>
         <span><a href="/">Home</a></span>
